@@ -1,0 +1,42 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	background-color: #FFDa73;
+}
+
+h1, p, #rule {
+	text-align: center;
+	margin: 5px 0;
+}
+
+h1, #rule {
+	color: #06276F;
+	font-family: 'Love Ya Like A Sister', Helvetica, cursive;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+#rule {
+	font-size: 1.5em;
+}
+
+#container {
+	width: 1000px;
+	height: 700px;
+	margin: 0 auto;
+	border: solid 1px black;
+	background-color: #fff;
+}
+
+#box {
+	background: url('images/cat.png') center center no-repeat;
+	height: 100px;
+	width: 100px;
+	display: none;
+	position: relative;
+}
+
+.bold {
+	font-weight: bold;
+}
