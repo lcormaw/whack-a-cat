@@ -1,12 +1,3 @@
-function getRandomColor() {
-	var letters = '0123456789ABCDEF'.split(''); //splits each character from a string into an array
-	var color = '#';
-	for (var i = 0; i < 6; i++ ) {
-		color += letters[Math.floor(Math.random() * 16)]; //+= is for appending the color string
-	}
-	return color;
-}
-
 var clickedTime; var createdTime; var reactionTime; var bestTime=1000000;
 
 function makeBox() {
