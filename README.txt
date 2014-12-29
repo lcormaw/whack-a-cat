@@ -1,6 +1,6 @@
 /**** Whack-a-Cat ****/
 
-Simple JavaScript game: whack the cat as quickly as possible.
+Simple JavaScript game: whack the cat as quickly as possible. The code is based on the "Reaction Tester" project from the Complete Web Developer Course (Udemy).
 
 /**** To do ****/
 
